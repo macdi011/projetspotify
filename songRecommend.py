@@ -1,7 +1,7 @@
 #install scikit-learn
 import streamlit as st
 import pandas as pd
-import sklearn
+#import sklearn
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.preprocessing import StandardScaler
 
